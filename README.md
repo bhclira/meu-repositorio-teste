@@ -6,4 +6,4 @@
 
 2. Clonar um Repo para a máquina Local
 
-3. Criando
+3. Criando nova branch
